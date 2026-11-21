@@ -255,10 +255,12 @@ document.querySelectorAll(".uso-foto").forEach((container) => {
 
 // Coloque os links reais aqui
 
+
 const checkoutLinks = {
-  basico: "",
-  completo: ""
+  basico: "https://pay.hotmart.com/Y108595607N",
+  completo: "https://pay.hotmart.com/Q108595738F"
 };
+
 
 // Botões
 
